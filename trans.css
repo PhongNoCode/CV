@@ -1,0 +1,19 @@
+h1.UpperOfThePage {
+  text-align: center;
+  background-color: lightblue;
+}
+.container {
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+span:hover {
+  color: darkblue;
+  font-weight: bolder;
+  font-size: 30px;
+}
