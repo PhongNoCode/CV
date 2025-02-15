@@ -17,3 +17,15 @@ span:hover {
   font-weight: bolder;
   font-size: 30px;
 }
+h1.detail {
+  color: chocolate;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: aqua;
+}
+img.backgroundfordetail {
+  width:2558px;
+  
+  height: 1286px;
+  background-image: url(./img/backgroundfordetail.avif);
+}
